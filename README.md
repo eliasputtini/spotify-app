@@ -1,7 +1,8 @@
 # App utilizando a Api do spotify
 
 
-Autenticação de token no modo Guest e também por DEEP LINK schema, na sua própria conta do Spotify
+-Autenticação de token no modo Guest e também por DEEP LINK schema, na sua própria conta do Spotify
+-Player de música e filtro categorias na busca
 
 ![alt text](./prints/1.jpg)
 ![alt text](./prints/2.jpg)
