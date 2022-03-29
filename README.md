@@ -4,8 +4,8 @@
 Autenticação de token no modo Guest e também por DEEP LINK schema, na sua própria conta do Spotify
 
 ![alt text](./prints/1.jpg)
-![alt text](./src/assets/2.jpg)
-![alt text](./src/assets/img/3.jpg)
+![alt text](./prints/2.jpg)
+![alt text](./prints/3.jpg)
 
 
 ## Prerequisitos
