@@ -4,9 +4,8 @@
 -Autenticação de token no modo Guest e também por DEEP LINK schema, na sua própria conta do Spotify
 -Player de música e filtro categorias na busca
 
-![alt text](./prints/1.jpg)
-![alt text](./prints/2.jpg)
-![alt text](./prints/3.jpg)
+![alt text](./prints/4.png)
+
 
 
 ## Prerequisitos
